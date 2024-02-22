@@ -1,5 +1,5 @@
-### Hi there 👋, I am Shahin Alam
-#### A Passionate Full-Stake Web Developer
+## Hi there 👋, I am Shahin Alam
+### A Passionate Full-Stake Web Developer
 
 - 🌱 I’m currently learning JavaScript 
 
