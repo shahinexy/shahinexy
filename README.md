@@ -51,9 +51,7 @@
 
 ### Current Stats
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinexy)](https://github.com/anuraghazra/github-readme-stats) 
-
-     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinexy&show_icons=true) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinexy)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinexy&show_icons=true) 
 
 
             
