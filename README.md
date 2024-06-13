@@ -5,7 +5,7 @@
 - 💻 Most familiar statement console.log();
 - 📫 Reach me through shahinabrar33@gmail.com
 
-### Contach Me:
+### Contach On:
 <div>
   <a href="https://www.linkedin.com/in/shahinaalam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-### Tech Stack
+### Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-### Current Stats
+### Current Stats:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinexy)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinexy&show_icons=true) 
 
