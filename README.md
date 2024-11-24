@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Shahin Alam
 ### A Passionate Front-End Developer
 
-- 🎯 Currently focusing on Backend & Database Integration.
+- 🎯 Currently focusing on Next.js & TypeScript.
 - 💻 Most familiar statement console.log();
 - 📫 Reach me through shahinabrar33@gmail.com
 
-### Contach On:
+### Contact On:
 <div>
   <a href="https://www.linkedin.com/in/shahinaalam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
