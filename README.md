@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shahin Alam
 ### A Passionate Front-End Developer
 
-- 🎯 Currently focusing on Next.js & TypeScript.
+- 🎯 Currently focusing on Next.js, TypeScript & Mongooses.
 - 💻 Most familiar statement console.log();
 - 📫 Reach me through shahinabrar33@gmail.com
 
