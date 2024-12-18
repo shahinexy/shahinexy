@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co.com/nLbXSPx/icons8-mongoose-100.png" height="30" alt="mongoose logo"  />
+  <img src="https://i.ibb.co.com/nLbXSPx/icons8-mongoose-100.png" height="30" alt="mongoose logo" style="border-radius: 5px;"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
