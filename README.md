@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Shahin Alam
-### A Passionate Front-End Developer
+### A Passionate Full Stack Developer
 
 - 🎯 Currently focusing on Next.js, TypeScript & Mongooses.
 - 💻 Most familiar statement console.log();
