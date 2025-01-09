@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Shahin Alam
-### A Passionate Full Stack Developer
+<h2 align="center">I'm Shahin Alam</h2>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 - 🎯 Currently focusing on Next.js, TypeScript & Mongooses.
 - 💻 Most familiar statement console.log();
