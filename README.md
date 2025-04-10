@@ -1,21 +1,17 @@
 <h2 align="center">I'm Shahin Alam</h2>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-<div>
-
+<p align="left">
+  <div>
 - 🎯 Currently focusing on **Next.js**, **TypeScript** & **Mongoose**  
 - 💻 Most familiar statement `console.log();`  
 - 📫 Reach me through **shahinabrar33@gmail.com**
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" align="right" />
+</p>
 
-</div>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animated GIF" width="250" />
-</div>
 
-</div>
 
 ### Contact On:
 <div>
