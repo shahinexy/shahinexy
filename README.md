@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<div style="flex: 1;">
+<div>
 
 - 🎯 Currently focusing on **Next.js**, **TypeScript** & **Mongoose**  
 - 💻 Most familiar statement `console.log();`  
