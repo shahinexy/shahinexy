@@ -1,9 +1,7 @@
 <h2 align="center">I'm Shahin Alam</h2>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🎯 Currently focusing on Next.js, TypeScript & Mongooses.
-- 💻 Most familiar statement console.log();
-- 📫 Reach me through shahinabrar33@gmail.com
+<h2 align="center">I'm Shahin Alam</h2> <h3 align="center">A Passionate Full Stack Developer</h3> <table> <tr> <td> - 🎯 Currently focusing on Next.js, TypeScript & Mongooses.<br> - 💻 Most familiar statement console.log();<br> - 📫 Reach me through shahinabrar33@gmail.com </td> <td> <img src="https://via.placeholder.com/150" align="right" alt="Shahin Alam"> </td> </tr> </table>
 
 ### Contact On:
 <div>
