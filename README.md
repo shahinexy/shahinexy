@@ -65,6 +65,8 @@
 ### Current Stats:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinexy)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinexy&show_icons=true) 
+
+<a href="https://wakatime.com/@b1e78252-a1ba-45b3-a72e-c12b7246618f"><img src="https://wakatime.com/badge/user/b1e78252-a1ba-45b3-a72e-c12b7246618f.svg" alt="Total time coded since Apr 10 2025" /></a>
  
 
 
