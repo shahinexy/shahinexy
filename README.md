@@ -36,7 +36,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://i.ibb.co.com/nLbXSPx/icons8-mongoose-100.png" height="30" alt="mongoose logo" />
   <img width="12" />
